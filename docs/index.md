@@ -1,3 +1,3 @@
-# somebody's blog
+# Hello
 
-[跳转测试2](/hello.md)
+[hello](/hello.md)
