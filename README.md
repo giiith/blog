@@ -1,2 +1,1 @@
-# giiith.github.io
-# my first blog
+# my blog
