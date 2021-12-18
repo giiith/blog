@@ -2,7 +2,7 @@
 [hello](/hello.md)
 1. [自我介绍(硬件方面)](/blog/profile_hardware.md)
 2. [自我介绍(软件方面)](/blog/profile_software.md)  
-    - [量化三观](/blog/view/view.md)
+    - [量化三观](/blog/view/view.md)  
     对一些事物的看法
     - [烟](/blog/view/cigar.md)
     - [酒](/blog/view/alcohol.md)
