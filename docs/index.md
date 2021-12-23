@@ -21,6 +21,7 @@
       * 健身 减肥
     - 游戏
     - 家务分工
+    - [娱乐 吃瓜](/blog/view/entertainment.md)
 3. [理想对象](/blog/my_dream.md)
 4. [碎碎念](/blog/twitter.md)
 5. [关于本博客(技术向)](/blog/about.md)
