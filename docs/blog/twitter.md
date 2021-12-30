@@ -1,4 +1,15 @@
 # 碎碎念 --> 说说/朋友圈
+### 20. //TODO 学习《人类行为生物学》
+[Robert Sapolsky 在斯坦福大学的公开课《人类行为生物学》（Human Behavioral Biology）](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D)  
+源自枪枪推荐 [迟早更新 Episode 178: Meta 改革开放，Neta 改革开放](https://podcast.weareones.com/episodes/178)  
+枪枪说, 这门课很有趣, 每节课一个多小时, 一点都不枯燥, 很容易就学完了.   
+2021年12月30日17:18:57
+### 19. 添加《李银河说爱情》读书笔记
+详见 [李银河说爱情](/blog/readingNotes/LiYinheTalksAboutLove.md)  
+2021年12月30日17:16:30
+### 18. 添加《李银河说爱情》读书笔记
+详见 [李银河说爱情](/blog/readingNotes/LiYinheTalksAboutLove.md)  
+2021年12月30日17:16:30
 ### 17. 通信道德
 [你为什么不回我微信？](https://mp.weixin.qq.com/s?src=11&timestamp=1640789925&ver=3526&signature=WSEzKyNMfRIZaVpSf-5Xab34FaapgWZZM-AFue4EBc9Qcpg70vlR7sK0ZQqzozaLH1lD-snKicjxZ77SfSwwFRFdEC-jLqmYY5sC6a55b8eB2FRynYmJ0cB*GPf6dtCx&new=1)  
 2021年12月29日22:59:12
