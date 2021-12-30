@@ -5,10 +5,10 @@
 枪枪说, 这门课很有趣, 每节课一个多小时, 一点都不枯燥, 很容易就学完了.   
 2021年12月30日17:18:57
 ### 18. 添加《李银河说爱情》读书笔记
-详见 [李银河说爱情](/blog/readingNotes/LiYinheTalksAboutLove.md)  
+详见 [李银河说爱情](https://giiith.github.io/blog/readingNotes/LiYinheTalksAboutLove.html)  
 2021年12月30日17:16:30
 ### 17. 通信道德
-[你为什么不回我微信？](https://mp.weixin.qq.com/s?src=11&timestamp=1640789925&ver=3526&signature=WSEzKyNMfRIZaVpSf-5Xab34FaapgWZZM-AFue4EBc9Qcpg70vlR7sK0ZQqzozaLH1lD-snKicjxZ77SfSwwFRFdEC-jLqmYY5sC6a55b8eB2FRynYmJ0cB*GPf6dtCx&new=1)  
+[你为什么不回我微信？ 枕边风 Vol.120 万众期待我们终于聊了聊通信道德](https://mp.weixin.qq.com/s/uk9PibyhpGA-PINRfqJxkg)  
 2021年12月29日22:59:12
 ### 16. 网易云音乐 2021年度听歌报告
 详见 [网易云音乐 2021年度听歌报告及感想](https://giiith.github.io/blog/view/songs.html#4-网易云音乐2021年度听歌报告)   
