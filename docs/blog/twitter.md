@@ -1,8 +1,8 @@
 # 碎碎念 --> 说说/朋友圈
 ### 23. 四季
 冬天当滑雪,  
-夏天当游泳,
-春秋宜出游,
+夏天当游泳,  
+春秋宜出游,  
 赏花与落叶.
 ### 19. //TODO 学习《人类行为生物学》
 [Robert Sapolsky 在斯坦福大学的公开课《人类行为生物学》（Human Behavioral Biology）](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D)  
