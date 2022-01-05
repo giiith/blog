@@ -3,7 +3,8 @@
 冬天当滑雪,  
 夏天当游泳,  
 春秋宜出游,  
-赏花与落叶.
+新生与凋零.  
+听[《四季歌》](https://y.music.163.com/m/song?id=25864378)有感.
 ### 19. //TODO 学习《人类行为生物学》
 [Robert Sapolsky 在斯坦福大学的公开课《人类行为生物学》（Human Behavioral Biology）](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D)  
 源自枪枪推荐 [迟早更新 Episode 178: Meta 改革开放，Neta 改革开放](https://podcast.weareones.com/episodes/178)  
