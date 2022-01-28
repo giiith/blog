@@ -1,4 +1,9 @@
 # 碎碎念 --> 说说/朋友圈
+### 46. 《李银河说爱情》 读书笔记完工
+[《李银河说爱情》 读书笔记](https://giiith.github.io/blog/readingNotes/LiYinheTalksAboutLove.html)  终于完工了.  
+我现在可以用年前为数不多打游戏的时间来写这个读书笔记哟.  
+收工, 翘班回家.  
+2022年1月28日17:34:55
 ### 45. 土
 [为什么北京市海淀区这么土，土到炸裂？](https://www.zhihu.com/question/266236684)  
 [LiuS的回答](https://www.zhihu.com/question/266236684/answer/2326737727)
