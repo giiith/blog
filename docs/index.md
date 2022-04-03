@@ -27,3 +27,4 @@
 5. [关于本博客(技术向)](/blog/about.md)
 6. 读书笔记
     - [李银河说爱情](/blog/readingNotes/LiYinheTalksAboutLove.md)
+    - [风之旅人](/blog/readingNotes/Journey.md)
