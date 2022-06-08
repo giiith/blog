@@ -28,3 +28,4 @@
 6. 读书笔记
     - [李银河说爱情](/blog/readingNotes/LiYinheTalksAboutLove.md)
     - [风之旅人](/blog/readingNotes/Journey.md)
+7. [人生愿望清单](/blog/bucketList.md)
