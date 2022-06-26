@@ -26,8 +26,14 @@
 4. [碎碎念](/blog/twitter.md)
 5. [关于本博客(技术向)](/blog/about.md)
 6. 读书笔记
-    - [李银河说爱情](/blog/readingNotes/LiYinheTalksAboutLove.md)
-    - [风之旅人](/blog/readingNotes/Journey.md)
-    - [狙击精英4](/blog/readingNotes/SniperElite4.md)
-    - [传说法师](/blog/readingNotes/WizardOfLegend.md)
-7. [人生愿望清单](/blog/bucketList.md)
+   - 书
+        - [李银河说爱情](/blog/readingNotes/book/LiYinheTalksAboutLove.md)
+   - 游戏
+        - [风之旅人](/blog/readingNotes/game/Journey.md)
+        - [狙击精英4](/blog/readingNotes/game/SniperElite4.md)
+        - [传说法师](/blog/readingNotes/game/WizardOfLegend.md)
+   - 影剧
+        - [寄生虫](/blog/readingNotes/movie/Parasite.md)
+        - [邪不压正](/blog/readingNotes/movie/HiddenMan.md)
+        - [爱死机器人2](/blog/readingNotes/movie/LoveDeathAndRobotsSeason2.md)
+8. [人生愿望清单](/blog/bucketList.md)
