@@ -36,4 +36,7 @@
         - [寄生虫](/blog/readingNotes/movie/Parasite.md)
         - [邪不压正](/blog/readingNotes/movie/HiddenMan.md)
         - [爱死机器人2](/blog/readingNotes/movie/LoveDeathAndRobotsSeason2.md)
+        - [爱死机器人3](/blog/readingNotes/movie/LoveDeathAndRobotsSeason3.md)
+        - [Hello！树先生](/blog/readingNotes/movie/MrTree.md)
+        - [流浪地球2](/blog/readingNotes/movie/TheWanderingEarthⅡ.md)
 8. [人生愿望清单](/blog/bucketList.md)
