@@ -39,4 +39,7 @@
         - [爱死机器人3](/blog/readingNotes/movie/LoveDeathAndRobotsSeason3.md)
         - [Hello！树先生](/blog/readingNotes/movie/MrTree.md)
         - [流浪地球2](/blog/readingNotes/movie/TheWanderingEarthⅡ.md)
+        - [忠犬八公](/blog/readingNotes/movie/Hachiko.md)
+        - [鼠胆英雄](/blog/readingNotes/movie/CowardHero.md)
+        - [黏人俱乐部](/blog/readingNotes/movie/StickyClub.md)
 8. [人生愿望清单](/blog/bucketList.md)
