@@ -32,6 +32,7 @@
         - [风之旅人](/blog/readingNotes/game/Journey.md)
         - [狙击精英4](/blog/readingNotes/game/SniperElite4.md)
         - [传说法师](/blog/readingNotes/game/WizardOfLegend.md)
+        - [古墓丽影](/blog/readingNotes/game/TombRaider.md)
    - 影剧
         - [寄生虫](/blog/readingNotes/movie/Parasite.md)
         - [邪不压正](/blog/readingNotes/movie/HiddenMan.md)
