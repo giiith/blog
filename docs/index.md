@@ -33,6 +33,7 @@
         - [狙击精英4](/blog/readingNotes/game/SniperElite4.md)
         - [传说法师](/blog/readingNotes/game/WizardOfLegend.md)
         - [古墓丽影](/blog/readingNotes/game/TombRaider.md)
+        - [完蛋! 我被美女包围了!](/blog/readingNotes/game/LoveIsAllAround.md)
    - 影剧
         - [寄生虫](/blog/readingNotes/movie/Parasite.md)
         - [邪不压正](/blog/readingNotes/movie/HiddenMan.md)
